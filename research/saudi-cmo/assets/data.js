@@ -104,7 +104,7 @@ window.NR_DATA = {
    "label": "Broadcast",
    "low": 7.55,
    "high": 11.32,
-   "basis": "MBC Group broadcasting revenue SAR 2.831bn (C) × 1%–1.5%, a central slice of the UAE broadcaster band of 0.25%–3%, ÷ 3.75 SAR/US$. MBC's figure includes some non-Saudi revenue and other broadcasters are not counted; the two are treated as offsetting",
+   "basis": "MBC Group broadcasting revenue SAR 2.831bn (C) × 1%–1.5%, a central slice of the UAE broadcaster band of 0.25%–3%, ÷ 3.75 SAR/US$. MBC's broadcasting segment includes non-Saudi and technical-services revenue, so the broadcast figure is an upper bound for MBC. Other broadcasters are not counted",
    "tier": "CE",
    "source": "MBC Group FY2025 results; UAE rates single-source (Al Tamimi)",
    "url": "https://www.tamimi.com/our-knowledge/publications/eyes-on-2026/articles/collective-rights-management-in-the-uae-a-new-era-for-music-right-protection/"
@@ -127,7 +127,7 @@ window.NR_DATA = {
    "country": "KSA",
    "type": "Pending",
    "rights": "Expected: equitable remuneration (performers and producers)",
-   "milestone": "Draft licensing regulation published Mar 2026; final not issued as of late Aug",
+   "milestone": "Draft licensing regulation published Mar 2026; discussed by SAIP's board 28 Sep 2026, no approval announced",
    "partners": "Not announced",
    "tier": "C",
    "source": "25H; Gowling WLG",
@@ -811,6 +811,17 @@ window.NR_DATA = {
    "url": "https://en.aletihad.ae/news/uae/4684617/"
   },
   {
+   "id": "t15",
+   "date": "2026-09-28",
+   "jurisdiction": "KSA",
+   "event": "SAIP's board discusses the draft collective management regulation at its 42nd meeting; no approval announced",
+   "plain": "The regulator's board discusses the draft rules; no approval yet",
+   "status": "done",
+   "tier": "C",
+   "source": "SAIP, 42nd board meeting, 28 September 2026",
+   "url": "https://www.saip.gov.sa/ar/media-center/media-library/media-center/3093"
+  },
+  {
    "id": "t12",
    "date": "",
    "date_label": "Not announced",
@@ -819,8 +830,8 @@ window.NR_DATA = {
    "plain": "Saudi Arabia licenses its first collecting society",
    "status": "pending",
    "tier": "D",
-   "source": "Status after late August not verified",
-   "url": "https://gowlingwlg.com/en/insights-resources/articles/2026/saudi-arabia-copyright-law-implementing-regulations"
+   "source": "Final regulation not issued. Last confirmed status: discussed by SAIP's board on 28 September 2026, no approval announced",
+   "url": "https://www.saip.gov.sa/ar/media-center/media-library/media-center/3093"
   }
  ],
  "treaties": [
@@ -959,6 +970,14 @@ window.NR_DATA = {
  ],
  "updates": [
   {
+   "id": "u07",
+   "date": "2026-10-22",
+   "scope": "monitor",
+   "headline": "CMO status updated (SAIP board, 28 Sep 2026); hero wording clarified; market estimate caveats added; contact block simplified.",
+   "tier": "C",
+   "url": "https://www.saip.gov.sa/ar/media-center/media-library/media-center/3093"
+  },
+  {
    "id": "u05",
    "date": "2026-10-15",
    "scope": "monitor",
@@ -969,8 +988,8 @@ window.NR_DATA = {
   {
    "id": "u04",
    "date": "2026-10-14",
-   "scope": "ksa",
-   "headline": "Status check: SAIP's March draft rules are still the latest step towards the first Saudi collecting body; none licensed yet",
+   "scope": "monitor",
+   "headline": "Status check: no Saudi collecting body licensed yet",
    "tier": "C",
    "url": "https://25h.app"
   },
@@ -997,6 +1016,14 @@ window.NR_DATA = {
    "headline": "Monitor launched: baseline of the 12 August 2026 regime and open questions",
    "tier": "C",
    "url": "https://gowlingwlg.com/en/insights-resources/articles/2026/saudi-arabia-copyright-law-implementing-regulations"
+  },
+  {
+   "id": "u06",
+   "date": "2026-09-28",
+   "scope": "ksa",
+   "headline": "SAIP's board discussed the draft collective management regulation at its 42nd meeting; no approval announced",
+   "tier": "C",
+   "url": "https://www.saip.gov.sa/ar/media-center/media-library/media-center/3093"
   }
  ],
  "watch": [
@@ -1009,7 +1036,7 @@ window.NR_DATA = {
   {
    "id": "w02",
    "question": "When will the final licensing regulation be issued?",
-   "why": "Nothing is collected until a licensed body exists. Status after late August not verified",
+   "why": "Nothing is collected until a licensed body exists. SAIP's board discussed the draft on 28 September 2026; no approval announced",
    "tier": "CE"
   },
   {
